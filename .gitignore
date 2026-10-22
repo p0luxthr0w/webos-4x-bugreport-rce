@@ -1,0 +1,5 @@
+client.key
+*.key
+__pycache__/
+*.pyc
+*.log
